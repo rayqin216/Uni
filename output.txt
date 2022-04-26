@@ -1,0 +1,6 @@
+3 Sep 2018
+address:Caulfield	emaillucy@monash.edu	nameLucy	phone12345678unitcode:FIT9131	unitdescription:Java Programming	creditPoints:6unitcode:FIT9132	unitdescription:Databases	creditPoints:61 Jan 2018
+address:Carnegie	emailstacey@monash.edu	nameStacey	phone87654321unitcode:FIT9131	unitdescription:Java Programming	creditPoints:6unitcode:FIT9132	unitdescription:Databases	creditPoints:628 Apr 2018
+address:Ormond	emailjacquie@monash.edu	nameJacquie	phone06660666unitcode:FIT9131	unitdescription:Java Programming	creditPoints:6unitcode:FIT9132	unitdescription:Databases	creditPoints:612 Dec 2018
+address:Melbourne	emailsarah@monash.edu	nameSarah	phone12121212unitcode:FIT9131	unitdescription:Java Programming	creditPoints:6unitcode:FIT9132	unitdescription:Databases	creditPoints:6unknown
+address:111	email111	name1111	phone111unitcode:1111111	unitdescription:11	creditPoints:11
